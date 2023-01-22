@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um sistema de auxílio para rastrear e monitorar hábitos diários.
 
+- [Visite o projeto a partir desse link](https://netosluzek.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
